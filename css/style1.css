@@ -25,6 +25,5 @@
     opacity: 1;
     transition: 0.3s;
     width: 150px;
-    border-radius: 1rem;
   }
   .btn:hover {opacity: 0.6}
